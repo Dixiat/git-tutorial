@@ -4,4 +4,4 @@
 - feature-A
 - fix-B
 - feature-C
-- Master new add
+- Master new
